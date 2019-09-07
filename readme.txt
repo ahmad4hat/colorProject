@@ -1,1 +1,1 @@
-super hard mode should be added
+open the html file with browser.
